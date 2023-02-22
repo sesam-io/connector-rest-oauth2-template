@@ -1,0 +1,14 @@
+{
+  "additional_parameters": {
+  },
+  "auth": "oauth2",
+  "datatypes": {
+  },
+  "oauth2": {
+    "login_url": "",
+    "scopes": [
+    ],
+    "token_url": ""
+  },
+  "system-template": "templates/system.json"
+}
